@@ -14,13 +14,14 @@ Source repository for my public technical portfolio spanning **data science, AI,
 
 | Project | Focus | Repository |
 |---|---|---|
-| Wealth Compass | FinTech application engineering, PDF/CSV ingestion, financial analytics, adaptive recommendations | [wealth-compass](https://github.com/PerpsAkach/wealth-compass) |
-| NJDOT Green-Time Anomaly Detection | Python automation, ITS/SCATS analytics, explainable anomaly screening | [njdot-green-time-anomaly-detection](https://github.com/PerpsAkach/njdot-green-time-anomaly-detection) |
-| GenAI Amazon Reviews | Hugging Face, FLAN-T5, BERT, NLP, prompt engineering | [genai-amazon-reviews](https://github.com/PerpsAkach/genai-amazon-reviews) |
-| Student Routines & Mood | SBERT, HDBSCAN, TF-IDF, t-SNE, behavioral analytics | [student-routines-mood-clustering](https://github.com/PerpsAkach/student-routines-mood-clustering) |
-| Cats vs Dogs CNN | TensorFlow/Keras, computer vision, model evaluation | [cats-vs-dogs-cnn](https://github.com/PerpsAkach/cats-vs-dogs-cnn) |
-| Course Registration API | Flask REST API, SQL, relational modeling, transactions | [course-registration-api](https://github.com/PerpsAkach/course-registration-api) |
-| Tax Payment Tracker | Flask/SQLite CRUD, monetary handling, reporting | [tax-payment-tracker](https://github.com/PerpsAkach/tax-payment-tracker) |
+| NHANES Multi-Source Health Analytics | Reproducible public-health analytics, interpretable ML, calibration, subgroup validation, model governance | [nhanes-health-analytics](https://github.com/PerpsAkach/nhanes-health-analytics) |
+| GenAI Amazon Reviews | FLAN-T5, BERT, NLP, token-aware transformer processing, ordinal evaluation | [genai-amazon-reviews](https://github.com/PerpsAkach/genai-amazon-reviews) |
+| Cats vs Dogs CNN | TensorFlow/Keras, streaming `tf.data`, computer vision, structured evaluation, overfitting analysis | [cats-vs-dogs-cnn](https://github.com/PerpsAkach/cats-vs-dogs-cnn) |
+| Student Routines & Mood | HDBSCAN, Sentence-BERT, TF-IDF, t-SNE, behavioral analytics, data-quality diagnostics | [student-routines-mood-clustering](https://github.com/PerpsAkach/student-routines-mood-clustering) |
+| NJDOT Green-Time Anomaly Detection | ITS/SCATS operator support, deterministic anomaly screening, data quality, auditable Excel reporting | [njdot-green-time-anomaly-detection](https://github.com/PerpsAkach/njdot-green-time-anomaly-detection) |
+| Wealth Compass | Browser-side CSV/searchable-PDF ingestion, financial analytics, robust spending baselines, adaptive recommendations | [wealth-compass](https://github.com/PerpsAkach/wealth-compass) |
+| Course Registration API | Flask/PostgreSQL, RBAC, prerequisites, waitlists, concurrency-safe seat allocation, observability | [course-registration-api](https://github.com/PerpsAkach/course-registration-api) |
+| Tax Payment Tracker | Verified CSIT 555 team-project history plus focused Flask/SQLite reconstruction with cent-accurate payment tracking | [tax-payment-tracker](https://github.com/PerpsAkach/tax-payment-tracker) |
 
 ## Technical coverage
 
