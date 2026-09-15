@@ -2,6 +2,7 @@
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-perpsakach.github.io-d7ff5f?style=for-the-badge&labelColor=11151a)](https://perpsakach.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-PerpsAkach-181717?style=for-the-badge&logo=github)](https://github.com/PerpsAkach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Akach%20Ndiege-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-akach-ndiege-3611a4148/)
 
 Source repository for my public technical portfolio spanning **data science, AI, machine learning, automation, backend engineering, databases, and application development**.
 
@@ -66,7 +67,8 @@ PerpsAkach.github.io/
 └── sitemap.xml
 ```
 
-## Contact / source code
+## Contact / professional profiles
 
 - Portfolio: **[perpsakach.github.io](https://perpsakach.github.io/)**
 - GitHub: **[github.com/PerpsAkach](https://github.com/PerpsAkach)**
+- LinkedIn: **[linkedin.com/in/paul-akach-ndiege-3611a4148](https://www.linkedin.com/in/paul-akach-ndiege-3611a4148/)**
