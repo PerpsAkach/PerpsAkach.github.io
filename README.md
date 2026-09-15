@@ -60,6 +60,7 @@ This site is deployed with **GitHub Pages** from the `main` branch and repositor
 
 ```text
 PerpsAkach.github.io/
+├── README.md
 ├── index.html
 ├── styles.css
 ├── 404.html
